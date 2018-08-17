@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        "**/logs": true,
+        "**/applications/**/cache": true,
+        "**/applications/**/databases": true,
+        "**/applications/**/errors": true,
+        "**/applications/**/sessions": true,
+        "**/applications/**/uploads": true,
+    }
+}
